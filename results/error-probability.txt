@@ -1,0 +1,165 @@
+
+-----------------
+
+QPSK without Phase Ambiguity
+--- Coding = No Coding
+------ SNR/bit = 0.000dB
+--------- Practical BER: 7.871875e-02
+--------- Theoretical BER: 7.555672e-02
+
+------ SNR/bit = 5.000dB
+--------- Practical BER: 5.893591e-03
+--------- Theoretical BER: 5.936143e-03
+
+------ SNR/bit = 10.000dB
+--------- Practical BER: 7.980489e-06
+--------- Theoretical BER: 3.872101e-06
+
+------ SNR/bit = 15.000dB
+--------- Practical BER: 0
+--------- Theoretical BER: 8.881784e-16
+
+--- Coding = BCH(15,11)
+------ SNR/bit = -1.347dB
+--------- Practical BER: 1.214878e-01
+--------- Theoretical BER: 8.455433e-02
+
+------ SNR/bit = 3.653dB
+--------- Practical BER: 4.488227e-03
+--------- Theoretical BER: 3.049780e-03
+
+------ SNR/bit = 8.653dB
+--------- Practical BER: 0
+--------- Theoretical BER: 5.758108e-08
+
+------ SNR/bit = 13.653dB
+--------- Practical BER: 0
+--------- Theoretical BER: 3.320508e-22
+
+--- Coding = BCH(15,7)
+------ SNR/bit = -3.310dB
+--------- Practical BER: 1.473055e-01
+--------- Theoretical BER: 1.002594e-01
+
+------ SNR/bit = 1.690dB
+--------- Practical BER: 6.475369e-03
+--------- Theoretical BER: 4.822285e-03
+
+------ SNR/bit = 6.690dB
+--------- Practical BER: 0
+--------- Theoretical BER: 1.282303e-07
+
+------ SNR/bit = 11.690dB
+--------- Practical BER: 0
+--------- Theoretical BER: 1.944317e-21
+
+
+-----------------
+
+QPSK with Phase Ambiguity
+--- Coding = No Coding
+------ SNR/bit = 0.000dB
+--------- Practical BER: 7.383916e-01
+--------- Theoretical BER: 7.555672e-02
+
+------ SNR/bit = 5.000dB
+--------- Practical BER: 2.498109e-01
+--------- Theoretical BER: 5.936143e-03
+
+------ SNR/bit = 10.000dB
+--------- Practical BER: 2.499162e-01
+--------- Theoretical BER: 3.872101e-06
+
+------ SNR/bit = 15.000dB
+--------- Practical BER: 2.497374e-01
+--------- Theoretical BER: 8.881784e-16
+
+--- Coding = BCH(15,11)
+------ SNR/bit = -1.347dB
+--------- Practical BER: 3.004854e-01
+--------- Theoretical BER: 8.455433e-02
+
+------ SNR/bit = 3.653dB
+--------- Practical BER: 5.002338e-01
+--------- Theoretical BER: 3.049780e-03
+
+------ SNR/bit = 8.653dB
+--------- Practical BER: 2.805078e-01
+--------- Theoretical BER: 5.758108e-08
+
+------ SNR/bit = 13.653dB
+--------- Practical BER: 5.004038e-01
+--------- Theoretical BER: 3.320508e-22
+
+--- Coding = BCH(15,7)
+------ SNR/bit = -3.310dB
+--------- Practical BER: 1.476359e-01
+--------- Theoretical BER: 1.002594e-01
+
+------ SNR/bit = 1.690dB
+--------- Practical BER: 4.889805e-01
+--------- Theoretical BER: 4.822285e-03
+
+------ SNR/bit = 6.690dB
+--------- Practical BER: 1
+--------- Theoretical BER: 1.282303e-07
+
+------ SNR/bit = 11.690dB
+--------- Practical BER: 2.648054e-01
+--------- Theoretical BER: 1.944317e-21
+
+
+-----------------
+
+DQPSK with Phase Ambiguity
+--- Coding = No Coding
+------ SNR/bit = 0.000dB
+--------- Practical BER: 1.640980e-01
+--------- Theoretical BER: 7.555672e-02
+
+------ SNR/bit = 5.000dB
+--------- Practical BER: 3.061555e-02
+--------- Theoretical BER: 5.936143e-03
+
+------ SNR/bit = 10.000dB
+--------- Practical BER: 3.176235e-04
+--------- Theoretical BER: 3.872101e-06
+
+------ SNR/bit = 15.000dB
+--------- Practical BER: 0
+--------- Theoretical BER: 8.881784e-16
+
+--- Coding = BCH(15,11)
+------ SNR/bit = -1.347dB
+--------- Practical BER: 2.368234e-01
+--------- Theoretical BER: 8.455433e-02
+
+------ SNR/bit = 3.653dB
+--------- Practical BER: 5.235919e-02
+--------- Theoretical BER: 3.049780e-03
+
+------ SNR/bit = 8.653dB
+--------- Practical BER: 4.213698e-04
+--------- Theoretical BER: 5.758108e-08
+
+------ SNR/bit = 13.653dB
+--------- Practical BER: 0
+--------- Theoretical BER: 3.320508e-22
+
+--- Coding = BCH(15,7)
+------ SNR/bit = -3.310dB
+--------- Practical BER: 2.992021e-01
+--------- Theoretical BER: 1.002594e-01
+
+------ SNR/bit = 1.690dB
+--------- Practical BER: 7.303026e-02
+--------- Theoretical BER: 4.822285e-03
+
+------ SNR/bit = 6.690dB
+--------- Practical BER: 6.049211e-04
+--------- Theoretical BER: 1.282303e-07
+
+------ SNR/bit = 11.690dB
+--------- Practical BER: 0
+--------- Theoretical BER: 1.944317e-21
+
